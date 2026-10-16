@@ -1,0 +1,7 @@
+# Bỏ qua tất cả file video và file Word tạm
+*.mp4
+*.docx
+~$*.docx
+
+# Bỏ qua thư mục cache của Python
+__pycache__/
